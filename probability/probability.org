@@ -1,0 +1,49 @@
+* Probability
+  :PROPERTIES:
+  :ANKI_DECK: Probability
+  :END:
+
+** Probability of an event or its complement
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1582176180709
+   :END:
+
+*** Front
+
+    When trying to compute the probability of an event, what should one consider?
+
+*** Back
+
+    Consider whether it is easier to compute the probability of the event of the probability of the event.
+
+** Naive Definition
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1582176430618
+   :END:
+
+*** Front
+
+    What are some problems with the naive definition of probability
+
+*** Back
+
+    1. It assumes that the sample space is finite.
+    2. It assumes that all samples have equal probability.
+
+** Naive Definition
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1582177218809
+   :END:
+
+*** Front
+
+    When is the naive definition of probability applicable?
+
+*** Back
+
+    1. *Symmetry*: when the outcomes are equally likely, e.g. coin flips.
+    2. *Design*: when the experiment is designed to achieve equal sample probabilities e.g. polling.
+    3. *Null model*: when one wants to see what the naive definition yields.
